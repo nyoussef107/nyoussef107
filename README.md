@@ -1,7 +1,3 @@
-Sure, here's a unique README for your GitHub repository:
-
----
-
 # Welcome to Nabil Youssef's GitHub!
 
 Hello! I'm Nabil Youssef, a Computer Science student with a passion for coding and problem-solving. My repository is a collection of projects and experiments where I apply my skills and learn new technologies.
